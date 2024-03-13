@@ -31,4 +31,4 @@ To run the solutions and test cases:
 Feel free to explore the code and test cases provided in this repository. If you have any questions or suggestions, please feel free to reach out. 
 
 **Author**: Francis Waithaka.  
-**Email**: [franco313mwas@gmail.com]
+**Email**: franco313mwas@gmail.com
